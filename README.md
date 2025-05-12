@@ -1,8 +1,4 @@
 # Travel-Tourism-Management-System
- 
-Here's a well-structured and professional **GitHub README** description you can use for your **Java Travel and Tourism Management System** project:
-
----
 
 # 🌍 Travel and Tourism Management System (Java)
 
